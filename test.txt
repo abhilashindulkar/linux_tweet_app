@@ -1,7 +1,4 @@
-hello
-updated
-updated again~!
-updated the file.
-updated file
-new line
-hello
+this is a test file.
+UPDATED.
+Again!!!
+
